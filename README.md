@@ -1,4 +1,4 @@
-# newsapp
+# A Simple Flutter News App
 
 A new Flutter project.
 
